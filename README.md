@@ -1,1 +1,1 @@
-# workshop-high-quality-coding-techniques-and-standards
+# workshop-high-quaility-coding-techniques-and-standards
